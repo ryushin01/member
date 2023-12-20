@@ -1,6 +1,7 @@
 {
   "name": "member",
   "private": true,
+  "homepage": "https://ryushin01.github.io/member",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -12,9 +13,12 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.0"
+    "react-router-dom": "^6.21.0",
+    "sass": "^1.69.5",
+    "swiper": "^11.0.5"
   },
   "devDependencies": {
+    "@svgr/rollup": "^8.1.0",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
